@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-
-<<<<<<< HEAD
 import 'GetxSatesM/Counter_View.dart';
 
 void main() {
@@ -22,7 +20,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-=======
+
 void main() {
   runApp(MyApp()); // Starts the Flutter app
 }
@@ -66,11 +64,4 @@ class MyApp extends StatelessWidget {
 }
 
 
-// //Text widget
-// void main(){
-//   runApp(
-//     Text("Hello Worldd" ,
-//     textDirection: TextDirection.ltr)
-//   );
-// }
->>>>>>> d0138d42bb7e71156275e7a0b430db3235b86923
+
