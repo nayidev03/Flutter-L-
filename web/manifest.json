@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
+    "name": "getxstatem_app",
+    "short_name": "getxstatem_app",
+=======
     "name": "flutter_app",
     "short_name": "flutter_app",
+>>>>>>> d0138d42bb7e71156275e7a0b430db3235b86923
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
