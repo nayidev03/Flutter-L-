@@ -75,6 +75,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
   get:
     dependency: "direct main"
     description:
@@ -83,6 +84,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.7.2"
+=======
+>>>>>>> d0138d42bb7e71156275e7a0b430db3235b86923
   leak_tracker:
     dependency: transitive
     description:
@@ -216,6 +219,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "15.0.0"
+<<<<<<< HEAD
   web:
     dependency: transitive
     description:
@@ -224,6 +228,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.1"
+=======
+>>>>>>> d0138d42bb7e71156275e7a0b430db3235b86923
 sdks:
   dart: ">=3.8.1 <4.0.0"
   flutter: ">=3.18.0-18.0.pre.54"
